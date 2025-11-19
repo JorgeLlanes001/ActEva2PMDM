@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Gestión Clientes</string>
+    <string name="agregar_cliente">Agregar cliente</string>
+    <string name="editar_cliente">Editar cliente</string>
+    <string name="eliminar_cliente">Eliminar cliente</string>
+    <string name="buscar">Buscar por nombre o correo</string>
+    <string name="total">Total:</string>
+    <string name="guardar">GUARDAR CLIENTE</string>
+    <string name="actualizar">ACTUALIZAR CLIENTE</string>
+    <string name="confirmar_eliminacion">Confirmar eliminación</string>
+    <string name="mensaje_eliminar">¿Estás seguro de que deseas eliminar este cliente?</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nombre_obligatorio">El nombre es obligatorio</string>
+    <string name="email_obligatorio">El correo electrónico es obligatorio</string>
+    <string name="email_invalido">Ingrese un correo electrónico válido</string>
+    <string name="telefono_obligatorio">El teléfono es obligatorio</string>
+    <string name="telefono_minimo">El teléfono debe tener al menos 9 dígitos</string>
+    <string name="cliente_guardado">Cliente guardado exitosamente</string>
+    <string name="cliente_actualizado">Cliente actualizado exitosamente</string>
+    <string name="error_guardar">Error al guardar cliente</string>
+    <string name="error_actualizar">Error al actualizar cliente</string>
+    <string name="lista_vacia">No hay clientes registrados.\nToca el botón + para agregar uno.</string>
+</resources>
